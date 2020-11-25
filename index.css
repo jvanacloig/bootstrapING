@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.menu_1 {
+    position: relative;
+    text-align: left;
+    margin-left: 18%;
+    padding-left: 5%;
+    margin-top: 1%;
+}
+
+.logo-container {
+    position: relative;
+    margin-left: 15%;
+}
