@@ -4,7 +4,13 @@
 }
 
 .menu_1 {
+    position: relative;
     text-align: left;
+    padding-left: 5%;
+    margin-top: 1%;
 }
 
-.logo-container {}
+.logo-container {
+    position: relative;
+    margin-left: 15%;
+}
