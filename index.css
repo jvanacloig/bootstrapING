@@ -1,6 +1,7 @@
 .header {
     display: flex;
     flex-wrap: nowrap;
+    position: fixed;
 }
 
 .menu_1 {
