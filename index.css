@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.menu_1 {
+    position: relative;
+    text-align: left;
+}
+
+.logo-container {
+    position: relative;
+}
